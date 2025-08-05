@@ -2,6 +2,10 @@
 
 // TODO: Realizar os testes com as classes Nokia e Iphone
 
+
+
+Console.WriteLine("============================================");
+
 Nokia Nokia1 = new Nokia(numero: "982626387", modelo: "version1", imei: "1234", memoria: 64);
 Nokia1.Ligar();
 Nokia1.ReceberLigacao();
